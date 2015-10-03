@@ -1,4 +1,5 @@
 I am learning GIT.
+DO IT NOW.
 This is the second line;
-What about this line?
-OK, I will let you know.
+YES I will let you know.
+GO OFF.

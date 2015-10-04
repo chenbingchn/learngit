@@ -3,3 +3,4 @@ this is a text by john.
 HELLO WORLD!
 for bug test.
 What you did was not right.
+THIS IS A TEST.

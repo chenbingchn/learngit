@@ -2,3 +2,4 @@ THIS IS A TEST FOR GIT.
 this is a text by john.
 HELLO WORLD!
 for bug test.
+What you did was not right.
